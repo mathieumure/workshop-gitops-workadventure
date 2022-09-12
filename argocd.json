@@ -12,7 +12,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/map.json"
+                 "value":"\/@\/zenika-tz\/workshop-gitops\/tavern"
                 }],
          "type":"tilelayer",
          "visible":true,
