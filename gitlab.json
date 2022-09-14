@@ -24,7 +24,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/workshop-gitops-ui.vercel.app\/challenge-1"
+                 "value":"https:\/\/workshop-gitops-ui.vercel.app\/challenge-1-1"
                 }, 
                 {
                  "name":"openWebsiteAllowApi",
