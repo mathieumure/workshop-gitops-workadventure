@@ -35,6 +35,11 @@
                  "name":"openWebsiteClosable",
                  "type":"bool",
                  "value":true
+                }, 
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
